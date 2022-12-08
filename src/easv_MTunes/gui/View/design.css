@@ -1,0 +1,22 @@
+.bottom_bar_color
+{
+-fx-background-color: linear-gradient(from 25% 25% to 100% 100%, #0B1E3E, #4E154C);
+}
+.body_background
+{
+-fx-background-color: linear-gradient(from 25% 25% to 100% 100%, #4E154C, #085A89);
+}
+.transparent
+{
+-fx-background-color: rgba(0,0,0,0);
+}
+.search-background
+{
+-fx-background-color: #787A8F;
+-fx-background-radius: 50;
+}
+.slider
+{
+-fx-control-inner-background: #35FDD9;
+-fx-shadow-highlight-color: #35FDD9;
+}
